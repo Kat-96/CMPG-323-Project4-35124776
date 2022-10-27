@@ -8,21 +8,26 @@ The project will be opened using UIPATH, where the automation will be implemente
 Actions to be performed:
 1. Login 
 2. Category
-Delete
-InsertCategories
-Read
-Update
-Devices
-Delete
-InsertDevice
-Read
-Update
-Zones
-Delete
-InsertZones
-Read
-Update
-Click on the test that you would like to run and click the run button in UiPath Studio (Please ensure you run Insert Category and Zone prior to running Insert devices since category and zone data is used in device table)
-Once the test is successfully You will return to UiPath Studio where you can run another test (Please Log out before running test)
+    * Creat Category
+    * Delete Categories
+    * Read Category
+    * update Category
+   
+3. Device
+    * Create Device
+    * Delete Device
+    * Read
+    * Update
+   
+4. Zones
+     * Delete Zones
+     * Create Zones 
+     * Read Zones
+     * Update Zones
+
+All the tests for the above can be found in their respective folders.
+
+The tests for the above will be recorded in the excel file which will be updated everytime the automation is runned.
+
 Orchestrator
 ![orchestrator screenshot](https://user-images.githubusercontent.com/90704811/198321653-b7ab4a55-794a-4ac7-9b0b-e69b47dda4b4.png)
