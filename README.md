@@ -27,7 +27,5 @@ Actions to be performed:
 
 All the tests for the above can be found in their respective folders.
 
-The tests for the above will be recorded in the excel file which will be updated everytime the automation is runned.
-
 Orchestrator
 ![orchestrator screenshot](https://user-images.githubusercontent.com/90704811/198321653-b7ab4a55-794a-4ac7-9b0b-e69b47dda4b4.png)
