@@ -16,8 +16,8 @@ Actions to be performed:
 3. Device
     * Create Device
     * Delete Device
-    * Read
-    * Update
+    * Read Device
+    * Update Device
    
 4. Zones
      * Delete Zones
